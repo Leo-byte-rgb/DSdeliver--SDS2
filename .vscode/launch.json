@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DsdeliverApplication<dsdeliver>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.devsuperior.dsdeliver.DsdeliverApplication",
+            "projectName": "dsdeliver",
+            "args": ""
+        }
+    ]
+}
