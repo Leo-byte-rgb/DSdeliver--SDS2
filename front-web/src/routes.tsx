@@ -17,7 +17,6 @@ function Routes() {
                 <Home/>
             </Route>
           </Switch>
-          <Footer />
         </BrowserRouter>
         
         
